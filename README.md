@@ -1,6 +1,6 @@
 # Pstree
 
-An easy implementation of Linux command ` pstree` in C. 
+An easy implementation of Linux command `pstree` in C. 
 
 *Fork from Operation System course project 1.*
 
@@ -20,7 +20,7 @@ pstree -V # display version information
 
 ## How to run the program
 
-```
+```bash
 make
 ./pstree <option>
 ```
